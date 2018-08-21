@@ -71,5 +71,6 @@ public class Main {
 				createAndShowGUI();
 			}
 		});
+		system.out.println("Sample Text");
 	}
 }
